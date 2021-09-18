@@ -1,0 +1,13 @@
+//Action types are defined here.
+
+export const types = {
+    STORE_DATA: "STORE_DATA",
+    CHECK_SAGA: "CHECK_SAGA",
+    CHECK_RED: "CHECK_RED",
+    SAGA_FUNC: "SAGA_FUNC",
+    STORE_API_DATA: "STORE_API_DATA",
+    SHOW_API_DATA: "SHOW_API_DATA",
+    DISPLAY_API_DATA: "DISPLAY_API_DATA",
+    UPDATE_API_DATA: "UPDATE_API_DATA",
+    DELETE_API_DATA: "DELETE_API_DATA",
+}
